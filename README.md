@@ -470,3 +470,5 @@ Both implementations support the same features:
 - Drift detection and adaptation
 - Privacy-preserving mechanisms
 - Comprehensive metrics tracking 
+
+Shamaila Fardous
